@@ -2,7 +2,7 @@
 - 👀 I’m interested in C, C++ , Java and PHP
 - 🌱 I’m currently learning PHP , JS and react
 - 💞️ I’m looking to collaborate on projects where I'll learn more about backend development. 
-- 📫 How to reach me email: yadneshsbudukh01@gmail.com
+- 📫 How to reach me email: yadneshsbudukh01@gmail.com 
   
 
 <!---
