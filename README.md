@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @yadnesh-01
-- 👀 I’m interested in C, C++ , Java and PHP
-- 🌱 I’m currently learning PHP , JS and react
-- 💞️ I’m looking to collaborate on projects where I'll learn more about backend development. 
-- 📫 How to reach me email: yadneshsbudukh01@gmail.com 
+-  Hi, I’m @yadnesh-01
+-  I’m interested in C, C++ , Java and PHP
+-  Worked on the project with React , Node , Express , Python
+-  Knowledge of using MUI and tailwind CSS
+-  I’m currently learning PHP , JS and react
+-  I’m looking to collaborate on projects where I'll learn more about backend development. 
+-  How to reach me email: yadneshsbudukh01@gmail.com 
   
 
 <!---
